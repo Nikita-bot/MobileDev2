@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Все блюда</item>
+        <item>Избранное</item>
+        <item>Случайное блюдо</item>
+    </string-array>
+
+
+</resources>
